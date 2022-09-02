@@ -1,0 +1,322 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
+      "description": "আপনারা যারা বিগিনার হিসেবে রিয়্যাক্ট জেস নিয়ে কাজ করা শুরু করেছেন, তারা রিয়্যাক্ট এর বেশ কিছু কনসেপ্ট ঠিক মতো আয়ত্ত না করতে পারার কারণে বিচিত্র কিছু সমস্যার সম্মুখীন হন এবং শেষ পর্যন্ত বুঝতে না পেরে হতাশ হয়ে পড়েন। তাদের জন্যই এই ভিডিওটি। এই ভিডিওতে আমি এমন ১০টি সমস্যার কথা তুলে ধরেছি যেগুলো বিগিনার হিসেবে আপনারা অহরহ সম্মুখীন হবেন। আশা করি ভিডিওটি দেখলে আপনাদের এই সমস্যাগুলো নিয়ে আর কনফিউশন থাকবেনা।",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
+      "thumbnail": "https://i3.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg",
+      "tags": ["javascript", "react", "tips"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 2,
+      "title": "Git, GitHub, & GitHub Desktop for beginners",
+      "description": "In this video we'll be going through the basics of Git, GitHub, and GitHub Desktop app-- how to set them up and use them to track your code changes.",
+      "author": "Coder Coder",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_jZfBT-ty8j-7FbB31YjlUXnoUriz5zEkLpG5Qhg=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/8Dd7KRpKeaE",
+      "thumbnail": "https://i3.ytimg.com/vi/8Dd7KRpKeaE/maxresdefault.jpg",
+      "tags": ["git", "github"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 3,
+      "title": "VS Code Snippets - Boost your productivity with User Snippets",
+      "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "April 25, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
+      "thumbnail": "https://i3.ytimg.com/vi/N-U6AVcIPy4/maxresdefault.jpg",
+      "tags": ["vscode", "tips"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 4,
+      "title": "How to make a background-image transparent in CSS",
+      "description": "In this tutorial I'll show you how to make the background-image of a div semi-transparent by adjusting the opacity, without affecting the text in that same div!",
+      "author": "Coder Coder",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_jZfBT-ty8j-7FbB31YjlUXnoUriz5zEkLpG5Qhg=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "33.8k",
+      "link": "https://www.youtube-nocookie.com/embed/LQsjNmkqUOc",
+      "thumbnail": "https://i3.ytimg.com/vi/LQsjNmkqUOc/maxresdefault.jpg",
+      "tags": ["css", "ui"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 5,
+      "title": "Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial",
+      "description": "Tailwind CSS v3.0 came with incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features. In this tutorial - I have tried to explain different new features of Tailwind CSS version 3, how to install tailwind css 3, how to upgrade from tailwind v2 to v3 etc.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "March 11, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
+      "thumbnail": "https://i3.ytimg.com/vi/4M7D3O2XX4o/maxresdefault.jpg",
+      "tags": ["tailwind", "css"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 6,
+      "title": "Learn CSS in 20 Minutes",
+      "description": "In this video we will cover everything you need to know to get up and running with CSS in only 20 minutes. We will cover CSS syntax, how to add CSS to your HTML, CSS colors, CSS units, the box model, and best practices for CSS walking through a full example of CSS being used to style an HTML page. By the end of this video you will know enough about CSS to style any basic web pages in your own projects!",
+      "author": "Web Dev Simplified",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-PjRc81p0qP-ZPWxv8aY4k-4gFRzGEYs3HWbIQ=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/1PnVor36_40",
+      "thumbnail": "https://i3.ytimg.com/vi/1PnVor36_40/maxresdefault.jpg",
+      "tags": ["css", "ui"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    
+     {
+      "id": 7,
+      "title": "Animated Hamburger Menu in CSS/JS",
+      "description": "In this video you can watch me continue building a responsive website from scratch using HTML, CSS (SCSS) and vanilla JavaScript!",
+      "author": "Coder Coder",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_jZfBT-ty8j-7FbB31YjlUXnoUriz5zEkLpG5Qhg=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "33.8k",
+      "link": "https://www.youtube-nocookie.com/embed/XKehq1w4vfg",
+      "thumbnail": "https://i3.ytimg.com/vi/XKehq1w4vfg/maxresdefault.jpg",
+      "tags": ["css", "ui","javascript"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 8,
+      "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Jan 06, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
+      "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg",
+      "tags": ["debounce", "javascript", "tips"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 9,
+      "title": "SASS Tutorial in English - Overview of SASS",
+      "description": "In this video, I have given a high level overview of popular CSS Pre-processor SASS which helps us managing our styles at scale. If you have a basic understanding of CSS & JavaScript, this 10 mins SASS Tutorial will help you getting started with SASS.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Nov 22, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4tV1Mfi4fMA",
+      "thumbnail": "https://i3.ytimg.com/vi/4tV1Mfi4fMA/maxresdefault.jpg",
+      "tags": ["sass", "css", "ui"],
+      "likes": 5,
+      "unlikes": 5
+    },
+    {
+      "id": 10,
+      "title": "Should You Learn Bootstrap in 2020?",
+      "description": "Bootstrap 5 Alpha has been released and a lot of people have asked me if they should learn it or use it. I address that in this video.",
+      "author": "Traversery Media",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-fB-c8gczS81r-VBWgzndcSZgd1zGA2QcYfACHMg=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/SsEn0hlKDKA",
+      "thumbnail": "https://i3.ytimg.com/vi/SsEn0hlKDKA/maxresdefault.jpg",
+      "tags": ["ui"],
+      "likes": 2,
+      "unlikes": 3
+    },
+    {
+      "id": 11,
+      "title": "React Router DOM v6 Bangla Tutorial - Breaking Changes - React Router 6 vs 5",
+      "description": "In this React Router DOM v6 Bangla tutorial, you will learn how to install react router dom 6, what are the breaking changes in react router 6, difference between react router 6 vs 5, how to upgrade from react router v5 to react router v6. ",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Nov 08, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
+      "thumbnail": "https://i3.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg",
+      "tags": ["react", "router", "javascript"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 12,
+      "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+      "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+      "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+      "tags": ["tailwind", "css", "ui"],
+      "likes": 1,
+      "unlikes": 0
+    },
+    {
+      "id": 13,
+      "title": "Learn useState In 15 Minutes - React Hooks Explained",
+      "description": "In this video I cover everything you need to know about the useState hook. I also go over the basics of hooks as well so you can start using hooks in your own projects. This is the beginning of a series of React videos  where I cover all the important hooks in React.",
+      "author": "Web Dev Simplified",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-PjRc81p0qP-ZPWxv8aY4k-4gFRzGEYs3HWbIQ=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/O6P86uwfdR0",
+      "thumbnail": "https://i3.ytimg.com/vi/O6P86uwfdR0/maxresdefault.jpg",
+      "tags": ["react", "css", "ui"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 14,
+      "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+      "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+      "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+      "tags": ["tailwind", "css", "ui"],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 15,
+      "title": "Flexbox CSS In 20 Minutes",
+      "description": "In this quick video we will go over the CSS Flexbox model. This is a quick overview, not an in-depth course.",
+      "author": "Traversery Media",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu-fB-c8gczS81r-VBWgzndcSZgd1zGA2QcYfACHMg=s48-c-k-c0x00ffffff-no-rj",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/JJSoEo8JSnc",
+      "thumbnail": "https://i3.ytimg.com/vi/JJSoEo8JSnc/maxresdefault.jpg",
+      "tags": ["css","ui"],
+      "likes": 2,
+      "unlikes": 3
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "title": "javascript"
+    },
+    {
+      "id": 2,
+      "title": "react"
+    },
+    {
+      "id": 3,
+      "title": "tips"
+    },
+    {
+      "id": 4,
+      "title": "vscode"
+    },
+    {
+      "id": 5,
+      "title": "tailwind"
+    },
+    {
+      "id": 6,
+      "title": "css"
+    },
+    {
+      "id": 7,
+      "title": "debounce"
+    },
+    {
+      "id": 8,
+      "title": "sass"
+    },
+    {
+      "id": 9,
+      "title": "ui"
+    },
+    {
+      "id": 10,
+      "title": "router"
+    },
+    {
+      "id": 11,
+      "title": "git"
+    },
+    {
+      "id": 12,
+      "title": "github"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "author": "Learn with Sumit"
+    },
+    {
+      "id": 2,
+      "author": "Learn with Sumit"
+    },
+    {
+      "id": 3,
+      "author": "Learn with Sumit"
+    },
+    {
+      "id": 4,
+      "author": "Learn with Sumit"
+    },
+    {
+      "id": 5,
+      "author": "Learn with Sumit"
+    },
+    {
+      "id": 6,
+      "author": "Learn with Sumit"
+    },
+    {
+      "id": 7,
+      "author": "Learn with Sumit"
+    },
+    {
+      "id": 8,
+      "author": "P Hero"
+    },
+    {
+      "id": 9,
+      "author": "P Hero"
+    },
+    {
+      "id": 10,
+      "author": "P Hero"
+    }
+  ]
+}
