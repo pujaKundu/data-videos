@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Salary",
+    "amount": "30000",
+    "type": "income",
+    "id": 1
+  },
+  {
+    "name": "Family expenses",
+    "type": "expense",
+    "amount": 5000,
+    "id": 2
+  },
+  {
+    "name": "Bonus",
+    "type": "income",
+    "amount": 7000,
+    "id": 3
+  },
+  {
+    "name": "Keyboard",
+    "type": "expense",
+    "amount": 500,
+    "id": 5
+  },
+  {
+    "name": "Salary",
+    "type": "income",
+    "amount": 30000,
+    "id": 7
+  },
+  {
+    "name": "test Salary",
+    "amount": 20000,
+    "type": "income",
+    "id": 9
+  },
+  {
+    "name": "test Family expenses",
+    "type": "expense",
+    "amount": 5000,
+    "id": 10
+  },
+  {
+    "name": "test Bonus",
+    "type": "income",
+    "amount": 7000,
+    "id": 11
+  },
+  {
+    "name": "test Mouse",
+    "amount": "500",
+    "type": "expense",
+    "id": 12
+  },
+  {
+    "name": "test Keyboard",
+    "type": "expense",
+    "amount": 500,
+    "id": 13
+  },
+  {
+    "name": "test Extra income",
+    "type": "income",
+    "amount": 10000,
+    "id": 14
+  },
+  {
+    "name": "test Salary",
+    "type": "income",
+    "amount": 30000,
+    "id": 15
+  }
+]
